@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712637212617,
+      "tag": "0000_demonic_oracle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712638495546,
+      "tag": "0001_aspiring_the_phantom",
+      "breakpoints": true
+    }
+  ]
+}
